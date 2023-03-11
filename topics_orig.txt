@@ -1,0 +1,86 @@
+Introduction to software development
+Software development life cycle
+Requirements gathering and analysis
+User stories and use cases
+Personas and customer journeys
+User research
+Wireframing and prototyping
+Design thinking
+UI/UX design principles
+Agile development process
+Scrum methodology
+Kanban methodology
+Extreme programming (XP) methodology
+Lean software development
+DevOps
+Continuous integration and delivery (CI/CD)
+Test-driven development (TDD)
+Behavior-driven development (BDD)
+Domain-driven design (DDD)
+Clean code
+Code quality metrics
+Refactoring
+Pair programming
+Code reviews
+Code documentation
+Version control systems
+Git and GitHub
+Git branching and merging
+Git workflows
+Continuous deployment with Git
+Serverless architecture
+Microservices architecture
+Monolithic vs Microservices architectures
+API design
+RESTful APIs
+SOAP APIs
+GraphQL APIs
+API documentation
+API versioning
+API security
+OAuth2 authentication
+OpenID Connect
+Containerization with Docker
+Container orchestration with Kubernetes
+Infrastructure as code (IaC)
+Cloud computing
+Cloud service providers (AWS, Azure, Google Cloud Platform)
+Cloud deployment models (public, private, hybrid)
+Cloud deployment strategies (lift and shift, refactoring, rearchitecting)
+Serverless computing with AWS Lambda
+Amazon Simple Storage Service (S3)
+Amazon Elastic Compute Cloud (EC2)
+Amazon Relational Database Service (RDS)
+Amazon DynamoDB
+AWS Elastic Beanstalk
+Azure App Service
+Azure Functions
+Azure SQL Database
+Azure Cosmos DB
+Azure Blob Storage
+Google App Engine
+Google Cloud Functions
+Google Cloud SQL
+Google Cloud Storage
+Serverless computing with Firebase Functions
+Firebase Realtime Database
+Firebase Authentication
+Firebase Cloud Messaging
+Front-end web development
+HTML5
+CSS3
+JavaScript
+TypeScript
+React
+Angular
+Vue.js
+Web development frameworks
+Bootstrap
+Material UI
+Semantic UI
+Styled Components
+Front-end testing
+Unit testing with Jest
+End-to-end testing with Cypress
+Back-end web development
+Node.js

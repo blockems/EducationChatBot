@@ -1,0 +1,404 @@
+{
+    "topics": [
+      {
+        "id": 1,
+        "name": "Introduction to software development"
+      },
+      {
+        "id": 2,
+        "name": "Software development life cycle"
+      },
+      {
+        "id": 3,
+        "name": "Requirements gathering and analysis"
+      },
+      {
+        "id": 4,
+        "name": "User stories and use cases"
+      },
+      {
+        "id": 5,
+        "name": "Personas and customer journeys"
+      },
+      {
+        "id": 6,
+        "name": "User research"
+      },
+      {
+        "id": 7,
+        "name": "Wireframing and prototyping"
+      },
+      {
+        "id": 8,
+        "name": "Design thinking"
+      },
+      {
+        "id": 9,
+        "name": "UI/UX design principles"
+      },
+      {
+        "id": 10,
+        "name": "Agile development process"
+      },
+      {
+        "id": 11,
+        "name": "Scrum methodology"
+      },
+      {
+        "id": 12,
+        "name": "Kanban methodology"
+      },
+      {
+        "id": 13,
+        "name": "Extreme programming (XP) methodology"
+      },
+      {
+        "id": 14,
+        "name": "Lean software development"
+      },
+      {
+        "id": 15,
+        "name": "DevOps"
+      },
+      {
+        "id": 16,
+        "name": "Continuous integration and delivery (CI/CD)"
+      },
+      {
+        "id": 17,
+        "name": "Test-driven development (TDD)"
+      },
+      {
+        "id": 18,
+        "name": "Behavior-driven development (BDD)"
+      },
+      {
+        "id": 19,
+        "name": "Domain-driven design (DDD)"
+      },
+      {
+        "id": 20,
+        "name": "Clean code"
+      },
+      {
+        "id": 21,
+        "name": "Code quality metrics"
+      },
+      {
+        "id": 22,
+        "name": "Refactoring"
+      },
+      {
+        "id": 23,
+        "name": "Pair programming"
+      },
+      {
+        "id": 24,
+        "name": "Code reviews"
+      },
+      {
+        "id": 25,
+        "name": "Code documentation"
+      },
+      {
+        "id": 26,
+        "name": "Version control systems"
+      },
+      {
+        "id": 27,
+        "name": "Git and GitHub"
+      },
+      {
+        "id": 28,
+        "name": "Git branching and merging"
+      },
+      {
+        "id": 29,
+        "name": "Git workflows"
+      },
+      {
+        "id": 30,
+        "name": "Continuous deployment with Git"
+      },
+      {
+        "id": 31,
+        "name": "Serverless architecture"
+      },
+      {
+        "id": 32,
+        "name": "Microservices architecture"
+      },
+      {
+        "id": 33,
+        "name": "Monolithic vs Microservices architectures"
+      },
+      {
+        "id": 34,
+        "name": "API design"
+      },
+      {
+        "id": 35,
+        "name": "RESTful APIs"
+      },
+      {
+        "id": 36,
+        "name": "SOAP APIs"
+      },
+        {
+            "id": 37,
+            "name": "GraphQL APIs"
+          },
+          {
+            "id": 38,
+            "name": "API documentation"
+          },
+          {
+            "id": 39,
+            "name": "API versioning"
+          },
+          {
+            "id": 40,
+            "name": "API security"
+          },
+          {
+            "id": 41,
+            "name": "OAuth2 authentication"
+          },
+          {
+            "id": 42,
+            "name": "OpenID Connect"
+          },
+          {
+            "id": 43,
+            "name": "Containerization with Docker"
+          },
+          {
+            "id": 44,
+            "name": "Container orchestration with Kubernetes"
+          },
+          {
+            "id": 45,
+            "name": "Infrastructure as code (IaC)"
+          },
+          {
+            "id": 46,
+            "name": "Cloud computing"
+          },
+          {
+            "id": 47,
+            "name": "Cloud service providers (AWS, Azure, Google Cloud Platform)"
+          },
+          {
+            "id": 48,
+            "name": "Cloud deployment models (public, private, hybrid)"
+          },
+          {
+            "id": 49,
+            "name": "Cloud deployment strategies (lift and shift, refactoring, rearchitecting)"
+          },
+          {
+            "id": 50,
+            "name": "Serverless computing with AWS Lambda"
+          },
+          {
+            "id": 51,
+            "name": "Amazon Simple Storage Service (S3)"
+          },
+          {
+            "id": 52,
+            "name": "Amazon Elastic Compute Cloud (EC2)"
+          },
+          {
+            "id": 53,
+            "name": "Amazon Relational Database Service (RDS)"
+          },
+          {
+            "id": 54,
+            "name": "Amazon DynamoDB"
+          },
+          {
+            "id": 55,
+            "name": "AWS Elastic Beanstalk"
+          },
+          {
+            "id": 56,
+            "name": "Azure App Service"
+          },
+          {
+            "id": 57,
+            "name": "Azure Functions"
+          },
+          {
+            "id": 58,
+            "name": "Azure SQL Database"
+          },
+          {
+            "id": 59,
+            "name": "Azure Cosmos DB"
+          },
+          {
+            "id": 60,
+            "name": "Azure Blob Storage"
+          },
+          {
+            "id": 61,
+            "name": "Google App Engine"
+          },
+          {
+            "id": 62,
+            "name": "Google Cloud Functions"
+          },
+          {
+            "id": 63,
+            "name": "Google Cloud SQL"
+          },
+          {
+            "id": 64,
+            "name": "Google Cloud Storage"
+          },
+          {
+            "id": 65,
+            "name": "Serverless computing with Firebase Functions"
+          },
+          {
+            "id": 66,
+            "name": "Firebase Realtime Database"
+          },
+          {
+            "id": 67,
+            "name": "Firebase Authentication"
+          },
+          {
+            "id": 68,
+            "name": "Firebase Cloud Messaging"
+          },
+          {
+            "id": 69,
+            "name": "Front-end web development"
+          },
+          {
+            "id": 70,
+            "name": "HTML5"
+          },
+          {
+            "id": 71,
+            "name": "CSS3"
+          },
+          {
+            "id": 72,
+            "name": "JavaScript"
+          },
+          {  "id": 73,
+          "name": "TypeScript"
+        },
+        {
+          "id": 74,
+          "name": "React"
+        },
+        {
+          "id": 75,
+          "name": "Angular"
+        },
+        {
+          "id": 76,
+          "name": "Vue.js"
+        },
+        {
+          "id": 77,
+          "name": "Web development frameworks"
+        },
+        {
+          "id": 78,
+          "name": "Bootstrap"
+        },
+        {
+          "id": 79,
+          "name": "Material UI"
+        },
+        {
+          "id": 80,
+          "name": "Semantic UI"
+        },
+        {
+          "id": 81,
+          "name": "Styled Components"
+        },
+        {
+          "id": 82,
+          "name": "Front-end testing"
+        },
+        {
+          "id": 83,
+          "name": "Unit testing with Jest"
+        },
+        {
+          "id": 84,
+          "name": "End-to-end testing with Cypress"
+        },
+        {
+          "id": 85,
+          "name": "Back-end web development"
+        },
+        {
+          "id": 86,
+          "name": "Node.js"
+        },
+        {
+          "id": 87,
+          "name": "Express.js"
+        },
+        {
+          "id": 88,
+          "name": "Django"
+        },
+        {
+          "id": 89,
+          "name": "Flask"
+        },
+        {
+          "id": 90,
+          "name": "Ruby on Rails"
+        },
+        {
+          "id": 91,
+          "name": "PHP"
+        },
+        {
+          "id": 92,
+          "name": "Laravel"
+        },
+        {
+          "id": 93,
+          "name": "CodeIgniter"
+        },
+        {
+          "id": 94,
+          "name": "ASP.NET"
+        },
+        {
+          "id": 95,
+          "name": "Java web development"
+        },
+        {
+          "id": 96,
+          "name": "Spring Boot"
+        },
+        {
+          "id": 97,
+          "name": "Hibernate"
+        },
+        {
+          "id": 98,
+          "name": "JavaServer Faces (JSF)"
+        },
+        {
+          "id": 99,
+          "name": "JavaServer Pages (JSP)"
+        },
+        {
+          "id": 100,
+          "name": "JavaServer Pages Standard Tag Library (JSTL)"
+        }
+    ]
+}        
+            

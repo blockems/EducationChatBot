@@ -1,0 +1,209 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "Overview of PI Planning",
+      "parentId": null,
+      "subtopics": [
+        {
+          "id": 8,
+          "name": "Definition of PI Planning",
+          "parentId": 1
+        },
+        {
+          "id": 9,
+          "name": "Purpose of PI Planning",
+          "parentId": 1
+        },
+        {
+          "id": 10,
+          "name": "Benefits of PI Planning",
+          "parentId": 1
+        },
+        {
+          "id": 11,
+          "name": "Relationship of PI Planning to Agile Methodologies",
+          "parentId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Preparing for PI Planning",
+      "parentId": null,
+      "subtopics": [
+        {
+          "id": 12,
+          "name": "Setting program goals and objectives",
+          "parentId": 2
+        },
+        {
+          "id": 13,
+          "name": "Aligning teams around the vision",
+          "parentId": 2
+        },
+        {
+          "id": 14,
+          "name": "Preparing the backlog for the program increment",
+          "parentId": 2
+        },
+        {
+          "id": 15,
+          "name": "Creating a shared understanding of the business context",
+          "parentId": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Conducting PI Planning",
+      "parentId": null,
+      "subtopics": [
+        {
+          "id": 16,
+          "name": "Setting the context for the event",
+          "parentId": 3
+        },
+        {
+          "id": 17,
+          "name": "Reviewing the current state of the program",
+          "parentId": 3
+        },
+        {
+          "id": 18,
+          "name": "Defining the program increment objectives",
+          "parentId": 3
+        },
+        {
+          "id": 19,
+          "name": "Creating the program increment plan",
+          "parentId": 3
+        },
+        {
+          "id": 20,
+          "name": "Identifying risks and dependencies",
+          "parentId": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Agile Teams and Roles",
+      "parentId": null,
+      "subtopics": [
+        {
+          "id": 21,
+          "name": "Roles and responsibilities of the Product Owner",
+          "parentId": 4
+        },
+        {
+          "id": 22,
+          "name": "Roles and responsibilities of the Scrum Master",
+          "parentId": 4
+        },
+        {
+          "id": 23,
+          "name": "Roles and responsibilities of the Development Team",
+          "parentId": 4
+        },
+        {
+          "id": 24,
+          "name": "Roles and responsibilities of stakeholders",
+          "parentId": 4
+        },
+        {
+          "id": 25,
+          "name": "Team collaboration and communication",
+          "parentId": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "PI Planning Artifacts",
+      "parentId": null,
+      "subtopics": [
+        {
+          "id": 26,
+          "name": "Overview of the Program Backlog",
+          "parentId": 5
+        },
+       
+        {
+            "id": 27,
+            "name": "Overview of Team Backlogs",
+            "parentId": 5
+            },
+            {
+            "id": 28,
+            "name": "Overview of the Program Increment Plan",
+            "parentId": 5
+            },
+            {
+            "id": 29,
+            "name": "Managing changes and updates to artifacts",
+            "parentId": 5
+            }
+            ]
+            },
+            {
+            "id": 6,
+            "name": "Best Practices for PI Planning",
+            "parentId": null,
+            "subtopics": [
+            {
+            "id": 30,
+            "name": "Creating a collaborative environment",
+            "parentId": 6
+            },
+            {
+            "id": 31,
+            "name": "Focusing on outcomes",
+            "parentId": 6
+            },
+            {
+            "id": 32,
+            "name": "Facilitating effective communication and collaboration among team members",
+            "parentId": 6
+            },
+            {
+            "id": 33,
+            "name": "Emphasizing transparency and trust",
+            "parentId": 6
+            },
+            {
+            "id": 34,
+            "name": "Resolving conflicts",
+            "parentId": 6
+            }
+            ]
+            },
+            {
+            "id": 7,
+            "name": "Continuous Improvement",
+            "parentId": null,
+            "subtopics": [
+            {
+            "id": 35,
+            "name": "Incorporating feedback from team members",
+            "parentId": 7
+            },
+            {
+            "id": 36,
+            "name": "Reviewing and refining the PI Planning process",
+            "parentId": 7
+            },
+            {
+            "id": 37,
+            "name": "Adapting to changing business needs and priorities",
+            "parentId": 7
+            },
+            {
+            "id": 38,
+            "name": "Continuous improvement and learning culture",
+            "parentId": 7
+            }
+            ]
+            }
+            ]
+            }
